@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\loginregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\loginregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\data\\loginregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:data\\loginregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\helper\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:helper\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\helper\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:helper\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\helper\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:helper\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\installmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\installmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\validator\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:validator\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\realestatewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:realestatewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\propertyimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\propertyimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|d:\\du-diet\\sem 6\\project\\code\\web api code\\realestatewebapi\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E9F04-5C75-42A6-9196-E18A93C259CA}|RealEstateWebAPI.csproj|solutionrelative:controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\helper\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "helper\\IEmailSender.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\helper\\IEmailSender.cs",
+              "RelativeToolTip": "helper\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:34:19.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRegisterController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\LoginRegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginRegisterController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\LoginRegisterController.cs",
+              "RelativeToolTip": "Controllers\\LoginRegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:53:57.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwGwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:56:45.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAqwI4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:42:47.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:42:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:52:01.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T07:49:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:21:53.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRegisterRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Data\\LoginRegisterRepository.cs",
+              "RelativeDocumentMoniker": "Data\\LoginRegisterRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Data\\LoginRegisterRepository.cs",
+              "RelativeToolTip": "Data\\LoginRegisterRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:10:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\helper\\EmailSender.cs",
+              "RelativeDocumentMoniker": "helper\\EmailSender.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\helper\\EmailSender.cs",
+              "RelativeToolTip": "helper\\EmailSender.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:34:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:46:47.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\helper\\JwtService.cs",
+              "RelativeDocumentMoniker": "helper\\JwtService.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\helper\\JwtService.cs",
+              "RelativeToolTip": "helper\\JwtService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:53:59.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Validator\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\UserValidator.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Validator\\UserValidator.cs",
+              "RelativeToolTip": "Validator\\UserValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:00:59.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactUSController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\ContactUSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactUSController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\ContactUSController.cs",
+              "RelativeToolTip": "Controllers\\ContactUSController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:10:14.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RealEstateWebAPI.csproj",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\RealEstateWebAPI.csproj",
+              "RelativeDocumentMoniker": "RealEstateWebAPI.csproj",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\RealEstateWebAPI.csproj",
+              "RelativeToolTip": "RealEstateWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T08:00:24.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:42:35.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PropertyImagesController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\PropertyImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertyImagesController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\PropertyImagesController.cs",
+              "RelativeToolTip": "Controllers\\PropertyImagesController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:41:50.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertyController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "Controllers\\PropertyController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:41:20.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstallmentController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\InstallmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstallmentController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\InstallmentController.cs",
+              "RelativeToolTip": "Controllers\\InstallmentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:41:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoriteController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Project\\Code\\Web API Code\\RealEstateWebAPI\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:41:00.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
